@@ -75,17 +75,8 @@ We recommend that you download the Fitbit app to track your data. While not nece
 
 ### How do you get my data from my Fitbit?
 
-We use the myPHD app [https://myphd.stanford.edu/](https://myphd.stanford.edu/) to package and collect your data.
+We use a web app called fitabase which will pull information directly from your Fitbit account.
 
-
-### How does the myPHD access code work?
-
-After downloading the myPHD app, please download and click the myPHD key file on your mobile device. The code should automatically connect to the myPHD app. If the myPHD key does not automatically connect, please contact our study coordinator.
-
-Do I need to sync my Fitbit daily?
-
-We ask that you open the app at least once weekly to sync. The manual sync is not required in most circumstances.
-
-My Fitbit irritates my skin when I wear it constantly. What should I do?
+### My Fitbit irritates my skin when I wear it constantly. What should I do?
 
 We recommend that you wear your Fitbit nightly. If you choose to wear your Fitbit 24/7, we recommend that you loosen the watch and possibly switch arms every few days. Constant use of a wearable device can cause irritation to skin over time if not properly adjusted, the band is not regularly cleaned, or the wearer has a skin condition such as eczema or psoriasis.
